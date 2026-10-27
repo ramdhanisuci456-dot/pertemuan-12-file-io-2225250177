@@ -1,0 +1,7 @@
+HASIL REKAP NILAI MAHASISWA
+===========================
+Jumlah data valid: 5
+Rata-rata nilai: 83.40
+Nilai tertinggi: 92.0
+Nilai terendah: 74.0
+Jumlah mahasiswa lulus: 5
